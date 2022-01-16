@@ -47,7 +47,7 @@ USING THE LIST METHOD SORT
 
 USING THE LIST METHOD MAX
 
-![output](./img/MAXMETHOD.png)
+![output](./img/maxmethod.png)
 
 USING BUILTIN FUNCTIONS
 
